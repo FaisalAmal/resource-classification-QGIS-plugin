@@ -1,5 +1,3 @@
-![Alt Text](Gemini_Generated_Image_aect4faect4faect.png "Optional Title")
-
 ## **1. Resource Categories by Confidence**
 
 ### **Measured Resources** (Highest Confidence)
