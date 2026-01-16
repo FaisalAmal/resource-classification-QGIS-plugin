@@ -1,0 +1,11 @@
+[general]
+name=Resource Classification
+qgisMinimumVersion=3.0
+description=A plugin to create resource category polygons based on drillhole spacing.
+about=This plugin generates resource category polygons (Measured, Indicated) from drillhole data based on user-defined spacing rules.
+version=0.1
+author=Gemini
+email=
+icon=icon.png
+
+[plugin-dependencies]
